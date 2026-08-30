@@ -1,0 +1,28 @@
+{
+  "lesion": {
+    "center_mm": [
+      12.0,
+      0.0,
+      5.0
+    ],
+    "diameter_mm": 2.0
+  },
+  "geometry": {
+    "source_y_mm": -110.0,
+    "detector_y_mm": 110.0,
+    "source_x_extent_mm": 45.0,
+    "source_z_extent_mm": 45.0,
+    "detector_x_extent_mm": 45.0,
+    "detector_z_extent_mm": 45.0,
+    "source_nx": 7,
+    "source_nz": 7,
+    "detector_nx": 9,
+    "detector_nz": 9,
+    "target_centered": true,
+    "detector_offset_extent_mm": 3.0
+  },
+  "selection": {
+    "k": 24,
+    "seed": 7
+  }
+}
